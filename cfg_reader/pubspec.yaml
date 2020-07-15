@@ -1,0 +1,5 @@
+name: ovo_file
+description: A Flutter ovo_file loader
+
+dependencies:
+  yaml: ^2.2.1

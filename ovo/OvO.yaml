@@ -1,0 +1,19 @@
+
+AppInfo:
+  AppName:'OvO'
+  Version:'0.0.1'
+  Logo:&Logo 'image/logo.png' 
+
+
+UIInfo:
+  Cover:
+    <<*Logo
+    SLogan:'To be the best version of yourself'
+    Background:'#000000'
+  Layout: 'tabs'
+  ThemeFile: 'OvOTheme.yml'
+
+
+ProjectInfo:
+- ProjectName:''
+- Framework:'Flutter'

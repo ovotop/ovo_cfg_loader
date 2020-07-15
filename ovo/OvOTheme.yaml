@@ -1,0 +1,12 @@
+Theme:
+  linktextcolor:'#39f'
+  normalBackground:'#eee'
+  heighLight:'#39f'
+  contextTextColor:'#333'
+  contextBackground:'#fff'
+  COLOR_CLICKABLE_TEXT:'#3399FF'
+  COLOR_WHITE:'#FFFFFF'
+  COLOR_YELLOW:'#FFFD39'
+  COLOR_ORAGE:'#FF6600'
+  COLOR_BLUE:'#3399FF'
+  COLOR_DARK:'#333333'
